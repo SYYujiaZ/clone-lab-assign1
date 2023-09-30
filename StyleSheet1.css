@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url(/images/background.jpg);
+    background-image: url(images/background.jpg);
 }
 
 /*basically we use this to have a nicer background for reading*/
@@ -98,3 +98,10 @@ body {
 .nav li a:hover{
     background-color:powderblue;
 }
+
+/*clear the underline*/
+.custom-link{
+    color:rgb(11, 36, 84);
+    text-decoration: none;
+}
+
